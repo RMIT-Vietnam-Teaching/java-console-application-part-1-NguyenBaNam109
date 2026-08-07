@@ -1,0 +1,21 @@
+# id|fullName|customerType|parentPolicyHolderId
+c-1000001|Nguyen Van An|PolicyHolder|null
+c-1000002|Tran Thi Bich|PolicyHolder|null
+c-1000003|Le Minh Chau|PolicyHolder|null
+c-1000004|Pham Quoc Dung|PolicyHolder|null
+c-1000005|Hoang Thi Duyen|PolicyHolder|null
+c-1000006|Vu Ngoc Giang|PolicyHolder|null
+c-1000007|Dang Hai Ha|PolicyHolder|null
+c-1000008|Bui Thanh Hieu|PolicyHolder|null
+c-1000009|Do Khanh Linh|PolicyHolder|null
+c-1000010|Ngo Gia Bao|PolicyHolder|null
+c-1000011|Nguyen Bao Long|Dependent|c-1000001
+c-1000012|Nguyen Thuy Mai|Dependent|c-1000001
+c-1000013|Tran Gia Nghi|Dependent|c-1000002
+c-1000014|Le Hoang Nam|Dependent|c-1000003
+c-1000015|Pham Anh Phuong|Dependent|c-1000004
+c-1000016|Hoang Minh Quan|Dependent|c-1000005
+c-1000017|Vu Thi Suong|Dependent|c-1000006
+c-1000018|Dang Tuan Thanh|Dependent|c-1000007
+c-1000019|Bui Gia Han|Dependent|c-1000008
+c-1000020|Do Anh Khoa|Dependent|c-1000009
